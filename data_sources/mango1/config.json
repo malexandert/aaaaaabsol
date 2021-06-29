@@ -1,0 +1,10 @@
+{
+    "name": "mango1",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "Cluster1",
+        "readPreference": "primary",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}
